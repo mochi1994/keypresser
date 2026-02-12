@@ -42,24 +42,6 @@ One-click configuration for all region captures with live preview overlays.
 
 ---
 
-## 📸 Setup Preview
-
-The Easy Setup Wizard guides you through each calibration step:
-
-| Character HP | Character TP | Monster HP |
-|:---:|:---:|:---:|
-| ![HP Setup](assets/step_character_hp.png) | ![TP Setup](assets/step_character_tp.png) | ![Monster HP](assets/step_monster_hp.png) |
-
-| Skill Bar | Monster Name | Vidya Target |
-|:---:|:---:|:---:|
-| ![Skillbar](assets/step_skillbar_f.png) | ![Name](assets/step_monster_name.png) | ![Vidya](assets/step_vidya_target.png) |
-
-| Party List | Character Monitor | Warning Region |
-|:---:|:---:|:---:|
-| ![Party](assets/step_party_list.png) | ![Monitor](assets/step_monitor.png) | ![Warning](assets/step_warning.png) |
-
----
-
 ## 📋 Requirements
 
 - **OS:** Windows 10/11
