@@ -61,15 +61,6 @@ Send a DM to **mochizuki1994_38340** on Discord.
 
 ---
 
-## 📖 Documentation
-
-Full setup guides available in English and Spanish:
-
-- 📄 [English Guide (PDF)](docs/KP_GUIDE_UPDATED.pdf)
-- 📄 [Guía en Español (PDF)](docs/POMPOMPURINS_KP_ESPAÑOL.pdf)
-
----
-
 ## ⚠️ Disclaimer
 
 This program uses **strictly pixel-detection and input simulation**. It does not:
