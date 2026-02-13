@@ -2,6 +2,13 @@
 
 All notable changes to POMPOMPURIN's KP will be documented in this file.
 
+---
+
+## [1.6.3] - 2/12/2026
+
+- Introduced Traditional mode under Skills (Buffs). It works similarly to traditional KP. It will ignore all CD verification and will press the button twice every x amount of seconds. Useful for braindead Vidya healing and skills with 0 CD
+- Introduced Focus Rohati healing. It will ignore the rest of the party members for single-target heal (only uses Susaruba for other party members) and focus a specific party member for Rohati. Useful for 8-man parties with a Satya during boss hunt
+- Hardcoded party_reference.png to remove file clutter
 
 ---
 
