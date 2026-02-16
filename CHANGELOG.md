@@ -4,6 +4,15 @@ All notable changes to POMPOMPURIN's KP will be documented in this file.
 
 ---
 
+## [1.7.0] - 2/16/2026
+
+- Added Class on the top-right corner. It hides features applicable for other classes for better user-friendliness
+- Added Timer (s) under Skills (Damage) tab. Good to use during boss hunts to maintain full uptime on damage over time (DoT) abilities
+- Improved online database IP verification for users using 3+ VMs. The program should no longer invalidate user license key when using 3+ VMs
+- Added Dadati Return key. The key is pressed when the program verifies the monster died, so Dadati returns around the character's vicinity. Available under Samabat Class drop-down
+
+---
+
 ## [1.6.4] - 2/15/2026
 
 - Introduced Dadati Attack under Opener Key for Samabats
