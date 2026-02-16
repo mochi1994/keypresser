@@ -4,6 +4,12 @@ All notable changes to POMPOMPURIN's KP will be documented in this file.
 
 ---
 
+## [1.6.4] - 2/15/2026
+
+- Introduced Dadati Attack under Opener Key for Samabats
+
+---
+
 ## [1.6.3] - 2/12/2026
 
 - Introduced Traditional mode under Skills (Buffs). It works similarly to traditional KP. It will ignore all CD verification and will press the button twice every x amount of seconds. Useful for braindead Vidya healing and skills with 0 CD
