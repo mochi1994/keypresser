@@ -1,6 +1,6 @@
 # POMPOMPURIN's KP
 
-![Version](https://img.shields.io/badge/version-1.7.0-blue)
+![Version](https://img.shields.io/badge/version-1.7.1-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows)
 ![.NET](https://img.shields.io/badge/.NET-Framework%204.8-512BD4)
 ![License](https://img.shields.io/badge/license-Subscription-orange)
