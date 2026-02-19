@@ -4,6 +4,14 @@ All notable changes to POMPOMPURIN's KP will be documented in this file.
 
 ---
 
+## [1.7.1] - 2/17/2026
+
+- Added extra functions under Max Skips. It now has reposition on max skips and force attack on max skips. Reposition on max skips will do an Anti-Idle movement after reaching the threshold. Force attack on max skips will attack the current target regardless of the filter
+- Added North and South direction for Idle Detection
+- Modified code for validation of license, specifically for VMs users
+
+---
+
 ## [1.7.0] - 2/16/2026
 
 - Added Class on the top-right corner. It hides features applicable for other classes for better user-friendliness
