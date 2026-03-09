@@ -4,6 +4,29 @@ All notable changes to POMPOMPURIN's KP will be documented in this file.
 
 ---
 
+## [1.7.4] - 3/9/2026
+
+- Fixed Vidya Party Buff bugging in VMs with low computing resource usage
+- Fixed Vidya Party Heal not ignoring dead teammates
+- Implemented Repair Notification under Settings tab. The program will notify you the moment it detects the repair text. Requires Auto-Repair to be setup
+
+---
+
+## [1.7.3] - 2/26/2026
+
+- Adjusted Vidya Party Heal for the new party UI
+
+---
+
+## [1.7.2] - 2/25/2026
+
+- Changed Force Attack on max skips and Reposition on max skips to just Force Attack and Reposition
+- Overhauled the code for Check for Updates to be less prone to be quarantined by anti-virus
+- Changed all the input codes to be the same
+- Selected region on every single feature is now visible
+
+---
+
 ## [1.7.1] - 2/17/2026
 
 - Added extra functions under Max Skips. It now has reposition on max skips and force attack on max skips. Reposition on max skips will do an Anti-Idle movement after reaching the threshold. Force attack on max skips will attack the current target regardless of the filter
